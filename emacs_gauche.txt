@@ -1,0 +1,11 @@
+https://qiita.com/da1/items/02f7d2f157c7145d58f2
+https://fkmn.exblog.jp/5485192/
+C-c S     別ウィンドウで gauche インタプリタが起動する。
+C-c C-l     Scheme file のロード
+C-x C-e     直前のS式を評価
+M-C Space     カーソルの次のＳ式をマーク
+M-C-a     カーソルを含むトップレベルのＳ式の先頭へ移動
+M-C-e     カーソルを含むトップレベルのＳ式の末尾へ移動
+M-C-f     次のＳ式へ移動
+M-C-b     前のＳ式へ移動
+M-C-t     カーソルの前後のＳ式を交換
