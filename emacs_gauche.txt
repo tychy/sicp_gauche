@@ -1,5 +1,6 @@
 https://qiita.com/da1/items/02f7d2f157c7145d58f2
 https://fkmn.exblog.jp/5485192/
+
 C-c S     別ウィンドウで gauche インタプリタが起動する。
 C-c C-l     Scheme file のロード
 C-x C-e     直前のS式を評価
